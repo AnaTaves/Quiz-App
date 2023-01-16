@@ -1,10 +1,12 @@
+import Question from "./components/Question"
 
 function App() {
   
 
   return (
-    <div className="bg-black h-screen">
-     <h1 className='text-center text-neutral-400'>Quiz App</h1>
+    <div className="bg-rich-black h-screen flex flex-col  items-center">
+     <h1 className='text-laurel-green'>Quiz App</h1>
+     <Question />
     </div>
   )
 }
