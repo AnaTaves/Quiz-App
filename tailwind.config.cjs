@@ -10,6 +10,7 @@ module.exports = {
       'rhythm': '#757083',
       'roman-silver': '#8A95A5',
       'laurel-green': '#B9C6AE',
+      'white': '#FFFF'
     }
   },
   plugins: [],
